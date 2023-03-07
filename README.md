@@ -1,4 +1,6 @@
 # HelloWorld.txt
 text about Hello World
 
-hello Wrold
+hello World
+lorem
+bla bla bla 
